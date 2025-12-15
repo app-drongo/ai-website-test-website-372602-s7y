@@ -10,8 +10,9 @@ const DEFAULT_NAVIGATION = {
   logo: 'DevFramework',
   logoHref: '/',
   navItems: [
-    { label: 'Home', href: '#hero' },
+    { label: 'Home', href: '/' },
     { label: 'Features', href: '#features' },
+    { label: 'Pricing', href: '/pricing' },
   ],
   ctaText: 'Get Started',
   ctaHref: '/signup',
